@@ -1,0 +1,5 @@
+#ignore api key
+/key.py
+
+#ignore csv files
+/*.csv
